@@ -38,8 +38,7 @@ May the force be with you!
 -Raiz<br>
 |<br>
 |-->documentos<br>
-  &emsp;|-->Entrega 1>
-  &emsp;|-->Entrega 2>
+  &emsp;|-->Entrega 1> &emsp;|-->Entrega 2>
   &emsp;|-->Entrega 3>
   &emsp;|-->Entrega 4>
   &emsp;|Documentação.docx<br>
