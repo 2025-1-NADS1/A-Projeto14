@@ -12,7 +12,7 @@ Vide tutoriais do PI.
 
 # Nome do Projeto
 
-## Nome do Grupo
+## FITP
 
 ## Integrantes: <a href="https://www.linkedin.com/in/gabriel-pacheco-434599330">Gabriel Pacheco</a>, <a href="https://www.linkedin.com/in/luan-fernandes-57215435b/">Luan Fernandes</a>, <a href="https://www.linkedin.com/in/lucas-camargo-souza/">Lucas Camargo</a>, <a href="https://www.linkedin.com/in/daniel-c%C3%A9sar-pereira-dos-santos-3a4b4335b/">Daniel Santos</a>, <a href="https://www.linkedin.com/in/victorbarq/">Rogério</a>
 
