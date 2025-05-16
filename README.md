@@ -10,11 +10,11 @@ Vide tutoriais do PI.
 <a href= "https://www.fecap.br/"><img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRhZPrRa89Kma0ZZogxm0pi-tCn_TLKeHGVxywp-LXAFGR3B1DPouAJYHgKZGV0XTEf4AE&usqp=CAU" alt="FECAP - Fundação de Comércio Álvares Penteado" border="0"></a>
 </p>
 
-# Nome do Projeto
+# Smart House
 
-## Nome do Grupo
+## FITP
 
-## Integrantes: <a href="https://www.linkedin.com/in/gabriel-pacheco-434599330">Gabriel Pacheco</a>, <a href="https://www.linkedin.com/in/luan-fernandes-57215435b/">Luan Fernandes</a>, <a href="https://www.linkedin.com/in/lucas-camargo-souza/">Lucas Camargo</a>, <a href="https://www.linkedin.com/in/daniel-c%C3%A9sar-pereira-dos-santos-3a4b4335b/">Daniel Santos</a>, <a href="https://www.linkedin.com/in/victorbarq/">Rogério</a>
+## Integrantes: <a href="https://www.linkedin.com/in/gabriel-pacheco-434599330">Gabriel Pacheco</a>, <a href="https://www.linkedin.com/in/luan-fernandes-57215435b/">Luan Fernandes</a>, <a href="https://www.linkedin.com/in/lucas-camargo-souza/">Lucas Camargo</a>, <a href="https://www.linkedin.com/in/daniel-c%C3%A9sar-pereira-dos-santos-3a4b4335b/">Daniel Santos</a>, <a href="https://www.linkedin.com/in/victorbarq/">Rogério Vieira</a>
 
 ## Professores Orientadores: <a href="https://www.linkedin.com/in/aimarlopes/">Aimar Martins Lopes</a>, <a href="https://www.linkedin.com/in/eduardo-savino-gomes-77833a10/">Eduardo Savino Gomes</a>, <a href="https://www.linkedin.com/in/lucymari/">Lucy Mari Tabuti</a>, <a href="https://www.linkedin.com/in/remuniz/">Renata Muniz do Nascimento</a>, <a href="https://www.linkedin.com/in/ronaldo-araujo-pinto-3542811a/">Ronaldo Araujo Pinto</a>
 
